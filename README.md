@@ -4,6 +4,8 @@ This is a very simple Java application that scans a directory containing PNG ima
 
 Useful to determine which subfolders are taking the most space in a spritesheet or texture atlas.
 
+![Screenshot](screenshot.png)
+
 ## Usage
 
 1. Download the latest release from the releases page.
